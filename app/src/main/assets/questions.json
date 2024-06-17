@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of France ?",
+    "options": ["Madrid", "Rome", "Paris", "Berlin"],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the capital of Germany ?",
+    "options": ["Paris", "Berlin", "Paris", "USA"],
+    "answer": "Berlin"
+  },
+  {
+    "question": "What is the capital of Spain ?",
+    "options": ["London", "Tokyo", "UK", "Madrid"],
+    "answer": "Madrid"
+  },
+  {
+    "question": "What is the capital of Italy ?",
+    "options": ["Rome", "Pakistan", "Egypt", "India"],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is the capital of Japan ?",
+    "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What is the capital of Canada ?",
+    "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is the capital of Australia ?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is the capital of Brazil ?",
+    "options": ["São Paulo", "Rio de Janeiro", "Brasília", "Salvador"],
+    "answer": "Brasília"
+  },
+  {
+    "question": "What is the capital of Russia ?",
+    "options": ["Moscow", "Saint Petersburg", "Kazan", "Sochi"],
+    "answer": "Moscow"
+  },
+  {
+    "question": "What is the capital of India ?",
+    "options": ["Mumbai", "New Delhi", "Bangalore", "Kolkata"],
+    "answer": "New Delhi"
+  }
+]
